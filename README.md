@@ -1,2 +1,2 @@
 # hello-world
-Creating the repository for simple hello-world code.
+Repository for simple hello-world code.
